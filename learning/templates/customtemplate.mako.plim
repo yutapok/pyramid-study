@@ -1,0 +1,9 @@
+- inherit layout.mako.plim
+div class="content"
+  h1 
+    p class="laod"
+      Starter project
+      code
+        ${service}
+
+    a href="https://github.com/yutapok?tab=repositories" Github repository of 'ypok'

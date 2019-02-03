@@ -1,0 +1,11 @@
+- inherit layout.mako.plim
+div class="content"
+  h1
+    span class="font-semi-bold"
+      Pyramid
+    span class="smaller"
+      Starter project
+  p class="lead"
+    span class="font-semi-bold"
+      404
+    Page Not Found
